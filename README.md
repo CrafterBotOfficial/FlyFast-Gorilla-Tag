@@ -22,3 +22,5 @@ The Flyfast mod includes a configuration file that allows you to customize the m
 ## Support
 
 If you have any questions or feedback, please feel free to contact us at Crafterbot#1255 or submit a issue in the provided issue tab.
+
+This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. :copyright: 2021 Another Axiom LLC.
